@@ -2,7 +2,7 @@
   
 
 - ✏️📕 Currently working on writing a book
-- 👑Avid enjoyer of OOP
+- 👑 Avid enjoyer of OOP, talented in Full-stack web development
 - 🎮 Learned to program through Minecraft mods. Forge made me who I am
 - 🐫 Will use camelCase no matter the language
 - 🎓 Getting my second degree
@@ -11,7 +11,7 @@
 <br/>  
 
 
-## My Skill Set  
+## My Skill Set
 <table><tr><td valign="top" width="33%">
 
 
